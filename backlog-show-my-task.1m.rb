@@ -37,7 +37,7 @@ begin
   me = JSON.parse(myself_res.body, symbolize_names: true)
 
   issues_api = URI.parse("#{BACKLOG_URL}/api/v2/issues")
-  issues_api.query = URI.encode_www_form(apiKey: TOKEN, 'assigneeId[]': me[:id], count: 100)
+  issues_api.query = URI.encode_www_form(apiKey: TOKEN, 'assigneeId[]' => me[:id], count: 100)
 
   issues_res = Net::HTTP.start(issues_api.host, issues_api.port, use_ssl: issues_api.scheme == 'https') do | http |
     http.get(issues_api.request_uri)
