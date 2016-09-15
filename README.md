@@ -1,8 +1,6 @@
 # bitbar-backlog
 
-◈ bitbar plugin for backlog.
-
-Bitbar plugin for backlog.
+◈ Bitbar plugin for backlog.
 
 Show backlog open ticket for mine.
 
