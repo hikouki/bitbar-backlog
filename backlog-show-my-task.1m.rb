@@ -6,7 +6,7 @@
 # <bitbar.author>hikouki</bitbar.author>
 # <bitbar.author.github>hikouki</bitbar.author.github>
 # <bitbar.desc>Show Backlog open ticket for mine</bitbar.desc>
-# <bitbar.image></bitbar.image>
+# <bitbar.image>https://raw.githubusercontent.com/hikouki/bitbar-backlog/master/preview.png</bitbar.image>
 # <bitbar.dependencies>ruby</bitbar.dependencies>
 # <bitbar.abouturl>https://github.com/hikouki</bitbar.abouturl>
 

@@ -2,6 +2,18 @@
 
 ◈ bitbar plugin for backlog.
 
+Bitbar plugin for backlog.
+
+Show backlog open ticket for mine.
+
+![preview](https://raw.githubusercontent.com/hikouki/bitbar-backlog/master/preview.png)
+
+# Contributing
+
+You can write in English or Japanese for pull-request and issue.
+
+After pull-request merged, I merge it into [matryer/bitbar-plugins](https://github.com/matryer/bitbar-plugins).
+
 # License
 
 The MIT License (MIT)
