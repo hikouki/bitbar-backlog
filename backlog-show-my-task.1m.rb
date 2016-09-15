@@ -1,4 +1,4 @@
-#!/usr/local/bin/ruby
+#!/usr/bin/env ruby
 # coding: utf-8
 
 # <bitbar.title>Backlog Show My Task</bitbar.title>
